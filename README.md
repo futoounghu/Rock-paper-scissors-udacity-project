@@ -1,4 +1,4 @@
-# Rock-paper-scissors-udacity-projec
+# Rock-paper-scissors-udacity-project
 
 The purpose of the project is to make a version of Rock, paper, scissors game using python, with a provided a starter code, where the `Player` and `Game` classes are already established.
 https://video.udacity-data.com/topher/2021/August/6128db63_rps-starter-code/rps-starter-code.py
